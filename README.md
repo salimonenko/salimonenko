@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salimonenko. I am a university teacher and a programist. 
+- 👋 Hi, I’m @salimonenko. I am a programist. 
 - 👀 I’m interested in PHP, javascript, html, CSS, C/C++, TCP-sockets
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
